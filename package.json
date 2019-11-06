@@ -15,5 +15,9 @@
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
+  },
+  "engines": {
+    "node": "^6.9",
+    "yarn": "^0.21"
   }
 }
